@@ -1,4 +1,4 @@
-# MIT-Intro-to-Algorithms-ps
+# MIT 6.006 2020spring Assignment solving
 
 ## ps0 Increasing Subarray
 ## ps1 Doubly Linked List
