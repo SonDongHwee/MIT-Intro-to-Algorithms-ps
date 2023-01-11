@@ -34,7 +34,7 @@ def run_test(ops):
         print(DS)
     for op in ops:
         if verbose:
-            print(*op)
+            print(op)
         if op[0] == "insert_first":
             x = op[1]
             DS.insert_first(x)
